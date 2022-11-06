@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently working on **Ait-Mgoun Web Site**
 
-- 🌱 I’m currently learning **PHP**
+- 🌱 I’m currently learning **PHP and REACT**
 
-- 💬 Ask me about **Html, Css, Js, C and Python**
+- 💬 Ask me about **HTML, CSS, JS, C and PYTHON**
 
 - 📫 How to reach me **choaib3elmadi@gmail.com**
 
