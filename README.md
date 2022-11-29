@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Choaib ELMADI</h1>
+<h1 align="center">Hi 👋, I'm Choaib</h1>
 <h3 align="center">Engineering Student And Passionate Programmer</h3>
 <img align="right" alt="Programming" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
