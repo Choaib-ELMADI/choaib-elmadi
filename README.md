@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=choaib-elmadi&label=Profile%20views&color=0e75b6&style=flat" alt="choaib-elmadi" /> </p>
 
-- 🔭 I’m currently working on **...**
+- 🥼 I’m currently working on **...**
 
-- 🌱 I’m currently learning **PHP and REACT**
+- 📌 I’m currently learning **Artificial Intelligence**
 
-- 💬 Ask me about **HTML, CSS, JS, C and PYTHON**
+- 💬 Ask me about **HTML, CSS, JS, REACT, PHP, C and PYTHON**
 
-- 📫 How to reach me **choaib3elmadi@gmail.com**
+- 📧 How to reach me **choaib3elmadi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
