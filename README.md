@@ -6,7 +6,7 @@
 
 - 🥼 I’m currently working on **...**
 
-- 📌 I’m currently learning **Artificial Intelligence**
+- 📌 I’m currently learning **A.I**
 
 - 💬 Ask me about **HTML, CSS, JS, REACT, PHP, C and PYTHON**
 
