@@ -8,7 +8,7 @@
 
 - 📌 I’m currently learning **...**
 
-- 💬 Ask me about **HTML, CSS, JS, REACT, PHP, C and PYTHON**
+- 💬 Ask me about **HTML, CSS, JS and REACT**
 
 - 📧 How to reach me **choaib3elmadi@gmail.com**
 
