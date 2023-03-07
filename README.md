@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=choaib-elmadi&label=Profile%20views&color=0e75b6&style=flat" alt="choaib-elmadi" /> </p>
 
-- 🥼 I’m currently working  **...**
+- 🥼 Always learning **...**
 
 - 📌 I’m currently learning **Three.js**
 
