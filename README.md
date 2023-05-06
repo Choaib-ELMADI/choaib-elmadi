@@ -6,7 +6,7 @@
 
 - 🥼 Always learning **...**
 
-- 📌 I’m currently learning **Three.js**
+- 📌 I’m currently learning **Machine Learning With Python**
 
 - 💬 Ask me about **HTML, CSS, JS and REACT**
 
