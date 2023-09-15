@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Choaib</h1>
-<h3 align="center">Engineering Student And Passionate Programmer</h3>
+<h3 align="center">Electronics Engineering Student And Passionate Programmer</h3>
 <img align="right" alt="Programming" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=choaib-elmadi&label=Profile%20views&color=0e75b6&style=flat" alt="choaib-elmadi" /> </p>
 
-- 🥼 Always learning **...**
+- 🥼 There is always something **New to Learn**
 
-- 📌 I’m currently learning **Machine Learning With Python**
+- 📌 I’m currently doing the **Top 100 Liked LeetCode Questions**
 
-- 💬 Ask me about **HTML, CSS, JS and REACT**
+- 💬 Ask me about **HTML, CSS, JavaScript, TypeScript, REACT, NEXT and NODE**
 
 - 📧 How to reach me **choaib3elmadi@gmail.com**
 
