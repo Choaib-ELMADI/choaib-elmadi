@@ -8,7 +8,7 @@
 
 - 📌 I’m currently doing the **Top 100 Liked LeetCode Questions**
 
-- 💬 Ask me about **HTML, CSS, TailwindCSS, JavaScript, TypeScript, REACT, NEXT, NODE, C & C++**
+- 💬 Ask me about **HTML, CSS, TailwindCSS, JavaScript, TypeScript, REACT, NEXT, NODE, C, C++, Arduino or ESPs**
 
 - 📧 How to reach me **choaib3elmadi@gmail.com**
 
