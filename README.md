@@ -4,9 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=choaib-elmadi&label=Profile%20views&color=0e75b6&style=flat" alt="choaib-elmadi" /> </p>
 
-- 🥼 There is always something **New to Learn**
-
-- 📌 I’m currently doing the **Top 100 Liked LeetCode Questions**
+- 📌 There is always something **New to Learn**
 
 - 💬 Ask me about **HTML, CSS, TailwindCSS, JavaScript, TypeScript, REACT, NEXT, NODE, C, C++, Arduino or ESPs**
 
