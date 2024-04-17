@@ -6,7 +6,7 @@
 
 - 📌 There is always something **New to Learn**
 
-- 💬 Ask me about **Web Development, Electronics, Robotics and 3D Design**
+- 💬 Ask me about **Web Development, Electronics, PCB Design, Robotics and 3D Modeling**
 
 - 📧 How to reach me **choaib3elmadi@gmail.com** / **choaibamd@gmail.com**
 
