@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Web Development, Electronics, PCB Design, Robotics and 3D Modeling**
 
-- 📧 How to reach me **choaib3elmadi@gmail.com** / **choaibamd@gmail.com**
+- 📧 How to reach me **choaibamd@gmail.com** / **choaib3elmadi@gmail.com**
 
 <h3 align="left">Let's Connect:</h3>
 <p align="left"> <a href="https://linkedin.com/in/choaib-elmadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="choaib-elmadi" height="30" width="40" /></a> <a href="https://fb.com/choaib.elmadi.94" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="choaib elmadi" height="30" width="40" /></a> <a href="https://instagram.com/choaib_elmadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dot.algo" height="30" width="40" /></a> </p>
