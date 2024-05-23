@@ -7,6 +7,8 @@
 - 🚀 **_Consistency_** is my super power
 
 - 📌 There is always something **_New to Learn_**
+  
+- 📘 I am currently reading the **_FPGA Programming for Beginners_** book by **Frank Bruno**
 
 - 💬 Ask me about **_Web Development_**, **_Electronics_**, **_PCB Design_**, **_Robotics_** and **_3D Modeling_**
 
