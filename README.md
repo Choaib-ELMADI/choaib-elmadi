@@ -4,9 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=choaib-elmadi&label=Profile%20views&color=0e75b6&style=flat" alt="choaib-elmadi" /> </p>
 
-- 📌 There is always something **New to Learn**
+- 🚀 **_Consistency_** is my super power
 
-- 💬 Ask me about **Web Development, Electronics, PCB Design, Robotics and 3D Modeling**
+- 📌 There is always something **_New to Learn_**
+
+- 💬 Ask me about **_Web Development_**, **_Electronics_**, **_PCB Design_**, **_Robotics_** and **_3D Modeling_**
 
 - 📧 How to reach me **choaibamd@gmail.com** / **choaib3elmadi@gmail.com**
 
