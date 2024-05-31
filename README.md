@@ -10,11 +10,11 @@
 
 - 📌 There is always something **_New to Learn_**
   
-- 📘 I am currently reading the **_FPGA Programming for Beginners_** book by **Frank Bruno**
+- 📘 I am currently reading the **_FPGA Programming for Beginners_** book by **_Frank Bruno_**
 
 - 💬 Ask me about **_Web Development_**, **_Electronics_**, **_PCB Design_**, **_Robotics_** and **_3D Modeling_**
 
-- 📧 How to reach me **choaibamd@gmail.com** / **choaib3elmadi@gmail.com**
+- 📧 How to reach me **_choaibamd@gmail.com_** / **_choaib3elmadi@gmail.com_**
 
 <h3 align="left">Let's Connect:</h3>
 <p align="left"> <a href="https://elmadichoaib.vercel.app/" target="_blank"><img align="center" src="https://media.licdn.com/dms/image/D4E03AQHCuGNl1WraYQ/profile-displayphoto-shrink_400_400/0/1665245862549?e=2147483647&v=beta&t=x7mQ17YAfSrGLj9HLQjnrAYa3PRXUrChLggSdT_JOZQ" alt="Portfolio: Choaib-Elmadi" height="30" width="30" /></a> &nbsp; <a href="https://linkedin.com/in/choaib-elmadi" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="choaib-elmadi" height="30" width="40" /></a> <a href="https://fb.com/choaib.ce" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="choaib elmadi" height="30" width="40" /></a> <a href="https://instagram.com/choaib_elmadi" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="choaib-elmadi" height="30" width="40" /></a> </p>
