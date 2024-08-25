@@ -1,3 +1,5 @@
+<h1 align="center">أستغفر الله العظيم</h1>
+
 <h1 align="center">Hi 👋, I'm Choaib</h1>
 
 <h3 align="center">Embedded Systems Engineering Student and Passionate Programmer</h3>
