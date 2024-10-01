@@ -16,7 +16,7 @@
   
 - 📘 I am currently reading the **_FPGA Programming for Beginners_** book by **_Frank Bruno_**
 
-- 💬 Ask me about **_Web Development_**, **_Electronics_**, **_PCB Design_**, **_Robotics_** and **_3D Modeling_**
+- 💬 Ask me about **_Web Development_**, **_Electronics_**, **_PCB Design_**, **_Robotics_**, **_3D Modeling_** and **_3D Printing_**
 
 - 📧 How to reach me **_choaibamd@gmail.com_** / **_choaib3elmadi@gmail.com_**
 
