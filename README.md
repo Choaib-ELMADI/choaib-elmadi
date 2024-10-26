@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=choaib-elmadi&label=Profile%20Views&color=8800dd&style=flat" alt="choaib-elmadi" /> </p>
 
-<!-- <h1 align="center">أستغفر الله العظيم</h1> -->
+<h3 align="center">أَسْتَغْـفِـــــرُ اللهَ العَلِيَّ العَظِيــــمَ</h3>
 
 <h1 align="center">Hi 👋, I'm Choaib</h1>
 
