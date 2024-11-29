@@ -1,10 +1,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=choaib-elmadi&label=Profile%20Views&color=8800dd&style=flat" alt="choaib-elmadi" /> </p>
 
-<h3 align="center">أَسْتَغْـفِـــــرُ اللهَ العَلِيَّ العَظِيــــمَ</h3>
+<h3 align="center">أَسْــــــتَغْفِرُ اللهَ ٱلذِي لَا إِلَهَ إِلَّا هُوَ ٱلْحَيُّ ٱلْقَيُّومُ وَأَتُوبُ إِلَيْهِ</h3>
+
+<br />
 
 <h1 align="center">Hi 👋, I'm Choaib</h1>
 
-<h1 align="center">* شعيب الماضــــــــــــــــي</h1>
+<!-- <h1 align="center">* شعيب الماضــــــــــــــــي</h1> -->
 
 <h3 align="center">Embedded Systems Engineering Student, Passionate Programmer</h3>
 
