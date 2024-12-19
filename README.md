@@ -2,6 +2,16 @@
 <h3 align="center">أَسْــــــتَغْفِرُ اللهَ ٱلذِي لَا إِلَهَ إِلَّا هُوَ ٱلْحَيُّ ٱلْقَيُّومُ وَأَتُوبُ إِلَيْهِ</h3>
 <br />
 
+<div align="center">
+
+![Choaib ELMADI in Arabic](https://github.com/user-attachments/assets/892e89c1-203c-45fc-be02-0203753277e1)
+
+</div>
+
+<br />
+
+<div style="width: 900px">
+
 <p align="left"><img src="https://komarev.com/ghpvc/?username=choaib-elmadi&label=Profile%20Views&color=8800dd&style=flat" alt="choaib-elmadi" /></p>
 
 <h2 align="left">Hi 👋, I'm Choaib</h2>
@@ -61,3 +71,5 @@ width="40" height="40" /></a> <a href="https://w3schools.com/css/" target="_blan
 ## <div align="center">Statistics and Analytics</div>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=choaib-elmadi&show_icons=false&locale=en&layout=compact&langs_count=8" alt="choaib-elmadi" /></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=choaib-elmadi&show_icons=true&locale=en&rank_icon=github" alt="choaib-elmadi" /></p>
+
+</div>
