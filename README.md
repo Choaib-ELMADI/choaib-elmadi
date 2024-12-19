@@ -59,5 +59,5 @@ width="40" height="40" /></a> <a href="https://w3schools.com/css/" target="_blan
 </p>
 
 ## <div align="center">Statistics and Analytics</div>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=choaib-elmadi&show_icons=false&locale=en&layout=compact" alt="choaib-elmadi" /></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=choaib-elmadi&show_icons=true&locale=en" alt="choaib-elmadi" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=choaib-elmadi&show_icons=false&locale=en&layout=compact&langs_count=8" alt="choaib-elmadi" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=choaib-elmadi&show_icons=true&locale=en&rank_icon=github" alt="choaib-elmadi" /></p>
