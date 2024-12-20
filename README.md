@@ -36,6 +36,8 @@
 <a href="https://elmadichoaib.vercel.app/" target="_blank"><img align="center" src="https://avatars.githubusercontent.com/u/111356633?v=4" alt="Portfolio: Choaib-Elmadi" height="30" width="30" /></a> &nbsp; <a href="https://linkedin.com/in/choaib-elmadi" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="choaib-elmadi" height="30" width="40" /></a> <a href="https://fb.com/choaib.ce" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="choaib elmadi" height="30" width="40" /></a> <a href="https://instagram.com/choaib_elmadi" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="choaib-elmadi" height="30" width="40" /></a>
 </p>
 
+<br />
+
 ## <div align="center">Languages and Tools</div>
 <!-- WEB DEVELOPMENT -->
 <p align="center">
@@ -68,8 +70,10 @@ width="40" height="40" /></a> <a href="https://w3schools.com/css/" target="_blan
 <a href="https://solidworks.com/" target="_blank" rel="noreferrer"><img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Software/solidworks.svg" alt="solidworks" width="40" height="40" /></a> <a href="https://blender.org/" target="_blank" rel="noreferrer"><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40" /></a>
 </p>
 
+<br />
+
 ## <div align="center">Statistics and Analytics</div>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=choaib-elmadi&show_icons=false&locale=en&layout=compact&langs_count=8" alt="choaib-elmadi" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=choaib-elmadi&show_icons=true&locale=en&layout=compact&langs_count=8" alt="choaib-elmadi" /></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=choaib-elmadi&show_icons=true&locale=en&rank_icon=github" alt="choaib-elmadi" /></p>
 
 </div>
