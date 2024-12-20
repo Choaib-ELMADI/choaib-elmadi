@@ -4,7 +4,7 @@
 
 <div align="center">
 
-![Choaib ELMADI in Arabic](https://github.com/user-attachments/assets/8be082b7-7a51-461d-8250-6c7a411a4ecb)
+![Choaib ELMADI in Arabic](https://github.com/user-attachments/assets/e4f3351b-28a2-4f3c-885a-202b60f9d807)
 
 </div>
 
