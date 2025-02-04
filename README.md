@@ -25,7 +25,7 @@
   
 - 📘 I am currently reading the **_Mastering STM32 - Second Edition_** book by **_Carmine Noviello_**
 
-- 💬 Ask me about **_Web Development_**, **_Electronics_**, **_PCB Design_**, **_Robotics_**, **_3D Modeling_** and **_3D Printing_**
+- 💬 Ask me about **_Web Development_**, **_Electronics_**, **_Robotics_**, **_PCB Design_**, **_AI_**, **_3D Modeling_** and **_3D Printing_**
 
 - 📧 How to reach me **_choaibamd@gmail.com_** / **_choaib3elmadi@gmail.com_**
 
