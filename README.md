@@ -27,7 +27,7 @@
 
 - 💬 Ask me about **_Web Development_**, **_Electronics_**, **_Robotics_**, **_PCB Design_**, **_AI_**, **_3D Modeling_** and **_3D Printing_**
 
-- 📧 How to reach me **_choaibamd@gmail.com_** / **_choaib3elmadi@gmail.com_**
+- 📧 How to reach me **_choaibamd@gmail.com_** / **_choaibemd@gmail.com_**
 
 <br />
 
