@@ -35,7 +35,7 @@
 ## <div align="center">Let's Connect</div>
 
 <p align="center">
-<a href="https://elmadichoaib.vercel.app/" target="_blank"><img align="center" src="https://avatars.githubusercontent.com/u/111356633?v=4" alt="Portfolio: Choaib-Elmadi" height="30" width="30" /></a> &nbsp; <a href="https://linkedin.com/in/choaib-elmadi" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="choaib-elmadi" height="30" width="40" /></a> <a href="https://fb.com/choaib.ce" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="choaib elmadi" height="30" width="40" /></a> <a href="https://instagram.com/choaib_elmadi" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="choaib-elmadi" height="30" width="40" /></a>
+<a href="https://elmadichoaib.vercel.app/" target="_blank"><img align="center" src="https://github.com/user-attachments/assets/b67c5a4f-8585-4b96-ac5b-cd15452f19bf" alt="Portfolio" height="32" width="32" /></a> &nbsp; <a href="https://fb.com/choaib.ce" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="32" width="32" /></a> &nbsp; <a href="https://instagram.com/choaib_elmadi" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="32" width="32" /></a> &nbsp; <a href="https://linkedin.com/in/choaib-elmadi" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" height="32" width="32" /></a>
 </p>
 
 <br />
@@ -80,3 +80,6 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=choaib-elmadi&show_icons=true&locale=en&rank_icon=github" alt="choaib-elmadi" /></p>
 
 </div>
+
+<!-- MY ASSETS -->
+<!-- ![rounded-me](https://github.com/user-attachments/assets/b67c5a4f-8585-4b96-ac5b-cd15452f19bf) -->
