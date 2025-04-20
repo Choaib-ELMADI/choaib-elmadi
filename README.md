@@ -10,9 +10,11 @@
 
 </div>
 
-<br />
+<div align="center">
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=choaib-elmadi&label=Profile%20Views&color=8800dd&style=flat" alt="choaib-elmadi" /></p>
+![Profile Views](https://komarev.com/ghpvc/?username=choaib-elmadi&label=Profile%20Views&color=8800dd&style=flat&abbreviated=0) ![Public Repos](https://img.shields.io/badge/Public_Repos-93-2bd729) ![Private Repos](https://img.shields.io/badge/Private_Repos-12-fb151a)
+
+</div>
 
 <h2 align="left">Hi 👋, I'm Choaib</h2>
 
