@@ -12,7 +12,7 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=choaib-elmadi&label=Profile%20Views&color=8800dd&style=flat&abbreviated=0) ![Public Repos](https://img.shields.io/badge/Public_Repos-100-2bd729) ![Private Repos](https://img.shields.io/badge/Private_Repos-13-fb151a)
+![Profile Views](https://komarev.com/ghpvc/?username=choaib-elmadi&label=Profile%20Views&color=8800dd&style=flat&abbreviated=0) ![Public Repos](https://img.shields.io/badge/Public_Repos-101-2bd729) ![Private Repos](https://img.shields.io/badge/Private_Repos-13-fb151a)
 
 </div>
 
