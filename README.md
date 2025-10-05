@@ -14,6 +14,8 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=choaib-elmadi&label=Profile%20Views&color=8800dd&style=flat&abbreviated=0) ![Public Repos](https://img.shields.io/badge/Public_Repos-101-2bd729) ![Private Repos](https://img.shields.io/badge/Private_Repos-15-fb151a)
 
+[![Nsayblik (LIK)](https://img.shields.io/badge/Nsayblik_(LIK)-Hardware_Freelancing_Services-0046ff)](https://nsayblik.com/choaib_elmadi)
+
 </div>
 
 <h2 align="left">Hi 👋, I'm Choaib</h2>
