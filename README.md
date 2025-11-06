@@ -20,23 +20,23 @@
 
 </div>
 
-<h2 align="left">Hi 👋, I'm Choaib</h2>
+## <div align="left">Hi 👋, I'm Choaib (<i>شُــعَيب</i>)</div>
 
-<h3 align="left">Embedded Systems Engineering Student, Passionate Programmer</h3>
+### <div align="left">Embedded Systems Engineering Student, Passionate Programmer</div>
 
 <br />
 
-- 🚀 **_Consistency_** is my super power
+- 🚀 **_Consistency_** is my super power!
 
-- 📌 There is always something **_New to Learn_**
+- 📌 There is always something **_New to Learn_**!
 
-- 💻 I am currently working with the **_STM32 Nucleo-F446RE_** board
+- 💻 I am currently working with the **_STM32 Nucleo-F446RE_** board.
 
-- 💬 Ask me about **_Web Development_**, **_Electronics_**, **_Robotics_**, **_PCB Design_**, **_AI_**, **_3D Modeling_** and **_3D Printing_**
+- 💬 Ask me about: **_Web Development_**, **_Electronics_**, **_Robotics_**, **_PCB Design_**, **_AI_**, **_3D Modeling_** and **_3D Printing_**.
 
-- 📧 How to reach me **_choaibamd@gmail.com_** / **_choaibemd@gmail.com_**
+- 📧 How to reach me: **_choaibamd@gmail.com_** / **_choaibemd@gmail.com_**.
 
-- 📄 Check out my <a href="https://firebasestorage.googleapis.com/v0/b/portfolio-ee795.appspot.com/o/resumes%2FChoaib__ELMADI.pdf?alt=media&token=ca7417d2-7c0a-45ed-876e-1fcfe77d7c45" target="_blank" title="My Resume">resume</a>
+- 📄 Check out my <a href="https://firebasestorage.googleapis.com/v0/b/portfolio-ee795.appspot.com/o/resumes%2FChoaib__ELMADI.pdf?alt=media&token=ca7417d2-7c0a-45ed-876e-1fcfe77d7c45" target="_blank" title="My Resume">resume</a>.
 
 <br />
 
