@@ -2,7 +2,7 @@
 
 <h3 align="center">أَسْــــــتَغْفِرُ ٱللهَ ٱلَّذِي لَا إِلَهَ إِلَّا هُوَ ٱلْحَيُّ ٱلْقَيُّومُ وَأَتُوبُ إِلَيْهِ</h3>
 
-<h3 align="center">اَللَّهُمَّ فِي سَبِيلِكَ وَابْتِغَــــــاءَ وَجْهِكَ ٱلْكَرِيمِ</h3>
+<h3 align="center">اَللَّهُمَّ فِي سَبِيلِكَ وَٱبْتِغَــــــاءَ وَجْهِكَ ٱلْكَرِيمِ</h3>
 
 <br />
 
@@ -36,12 +36,14 @@
 
 - 📧 How to reach me **_choaibamd@gmail.com_** / **_choaibemd@gmail.com_**
 
+- 📄 Check out my <a href="https://firebasestorage.googleapis.com/v0/b/portfolio-ee795.appspot.com/o/resumes%2FChoaib__ELMADI.pdf?alt=media&token=ca7417d2-7c0a-45ed-876e-1fcfe77d7c45" target="_blank" title="My Resume">resume</a>
+
 <br />
 
 ## <div align="center">Let's Connect</div>
 
 <p align="center">
-<a href="https://elmadichoaib.vercel.app/" target="_blank" title="Portfolio"><img align="center" src="https://github.com/user-attachments/assets/b67c5a4f-8585-4b96-ac5b-cd15452f19bf" alt="Portfolio" height="32" width="32" /></a> &nbsp; <a href="https://fb.com/choaib.ce" target="_blank" title="Facebook"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="32" width="32" /></a> &nbsp; <a href="https://instagram.com/choaib_elmadi" target="_blank" title="Instagram"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="32" width="32" /></a> &nbsp; <a href="https://linkedin.com/in/choaib-elmadi" target="_blank" title="LinkedIn"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" height="32" width="32" /></a> &nbsp; <a href="https://nsayblik.com/choaib_elmadi" target="_blank" title="Nsayblik (LIK)"><img align="center" src="https://github.com/user-attachments/assets/b67c5a4f-8585-4b96-ac5b-cd15452f19bf" alt="Nsayblik (LIK)" height="32" width="32" /></a>
+<a href="https://firebasestorage.googleapis.com/v0/b/portfolio-ee795.appspot.com/o/resumes%2FChoaib__ELMADI.pdf?alt=media&token=ca7417d2-7c0a-45ed-876e-1fcfe77d7c45" target="_blank" title="My Resume">My Resume</a> &nbsp; <a href="https://elmadichoaib.vercel.app/" target="_blank" title="Portfolio"><img align="center" src="https://github.com/user-attachments/assets/b67c5a4f-8585-4b96-ac5b-cd15452f19bf" alt="Portfolio" height="32" width="32" /></a> &nbsp; <a href="https://fb.com/choaib.ce" target="_blank" title="Facebook"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="32" width="32" /></a> &nbsp; <a href="https://instagram.com/choaib_elmadi" target="_blank" title="Instagram"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="32" width="32" /></a> &nbsp; <a href="https://linkedin.com/in/choaib-elmadi" target="_blank" title="LinkedIn"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" height="32" width="32" /></a> &nbsp; <a href="https://nsayblik.com/choaib_elmadi" target="_blank" title="Nsayblik (LIK)"><img align="center" src="https://github.com/user-attachments/assets/b67c5a4f-8585-4b96-ac5b-cd15452f19bf" alt="Nsayblik (LIK)" height="32" width="32" /></a>
 </p>
 
 <br />
