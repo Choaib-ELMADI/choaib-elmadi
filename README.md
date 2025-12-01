@@ -14,7 +14,7 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=choaib-elmadi&label=Profile%20Views&color=8800dd&style=flat&abbreviated=0) ![Public Repos](https://img.shields.io/badge/Public_Repos-105-2bd729) ![Private Repos](https://img.shields.io/badge/Private_Repos-17-fb151a)
+![Profile Views](https://komarev.com/ghpvc/?username=choaib-elmadi&label=Profile%20Views&color=8800dd&style=flat&abbreviated=0) ![Public Repos](https://img.shields.io/badge/Public_Repos-105-2bd729) ![Private Repos](https://img.shields.io/badge/Private_Repos-18-fb151a)
 
 [![Nsayblik (LIK)](https://img.shields.io/badge/Nsayblik_(LIK)-Hardware_Freelancing_Services-0046ff)](https://nsayblik.com/choaib_elmadi)
 
@@ -85,7 +85,7 @@
 ## <div align="center">Statistics and Analytics</div>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=choaib-elmadi&locale=en&layout=compact&langs_count=8" alt="choaib-elmadi" /></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=choaib-elmadi&show_icons=true&locale=en&rank_icon=github" alt="choaib-elmadi" /></p>
+<!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=choaib-elmadi&show_icons=true&locale=en&rank_icon=github" alt="choaib-elmadi" /></p> -->
 
 </div>
 
