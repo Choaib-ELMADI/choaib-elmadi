@@ -82,9 +82,9 @@
 
 <br />
 
-## <div align="center">Statistics and Analytics</div>
+<!-- ## <div align="center">Statistics and Analytics</div> -->
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=choaib-elmadi&locale=en&layout=compact&langs_count=8" alt="choaib-elmadi" /></p>
+<!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=choaib-elmadi&locale=en&layout=compact&langs_count=8" alt="choaib-elmadi" /></p> -->
 <!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=choaib-elmadi&show_icons=true&locale=en&rank_icon=github" alt="choaib-elmadi" /></p> -->
 
 </div>
