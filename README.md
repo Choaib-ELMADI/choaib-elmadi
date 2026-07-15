@@ -22,7 +22,7 @@
 
 ## <div align="left">Hi 👋, I'm Choaib (<i>شُــعَيب</i>)</div>
 
-### <div align="left">Embedded Systems Engineering Student, Passionate Programmer</div>
+### <div align="left">Embedded Systems Engineering, ADAS/AD Validation Engineer</div>
 
 <br />
 
@@ -30,9 +30,9 @@
 
 - 📌 There is always something **_New to Learn_**!
 
-- 💻 I am currently working with the **_STM32 Nucleo-F446RE_** board.
+- 💻 I am currently working as an **_ADAS/AD Validation Engineer_**.
 
-- 💬 Ask me about: **_Web Development_**, **_Electronics_**, **_Robotics_**, **_PCB Design_**, **_AI_**, **_3D Modeling_** and **_3D Printing_**.
+- 💬 Ask me about: **_Electronics_**, **_Automotive_**, **_Robotics_**, **_AI_**, **_PCB Design_**, **_Web Development_**, **_3D Modeling_** and **_3D Printing_**.
 
 - 📧 How to reach me: **_choaibamd@gmail.com_** / **_choaibemd@gmail.com_**.
 
