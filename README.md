@@ -30,7 +30,7 @@
 
 - 📌 There is always something **_New to Learn_**!
 
-- 💻 I am currently working as an **_ADAS/AD Validation Engineer_**.
+- 🚘 I am currently working as an **_ADAS/AD Validation Engineer_**.
 
 - 💬 Ask me about: **_Electronics_**, **_Automotive_**, **_Robotics_**, **_AI_**, **_PCB Design_**, **_Web Development_**, **_3D Modeling_** and **_3D Printing_**.
 
