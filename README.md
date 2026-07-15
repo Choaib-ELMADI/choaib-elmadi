@@ -50,6 +50,11 @@
 
 ## <div align="center">Languages and Tools</div>
 
+<!-- AUTOMOTIVE TECHNOLOGIES -->
+<p align="center">
+<a href="https://www.appliedintuition.com/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/cc4eb814-fcec-434c-9808-32e838c5be05" alt="applied-intuition" width="40" height="40" /></a> <a href="https://www.vector.com/int/en/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/3192d21b-7af7-4d5e-aa4b-042f72ec0b41" alt="vector" width="40" height="40" /></a>
+</p>
+
 <!-- EMBEDDED SYSTEMS / ELECTRONICS / ROBOTICS -->
 <p align="center">
 <a href="https://cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" /></a> <a href="https://w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" /></a> <a href="https://cmake.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/CMake_logo.svg/1280px-CMake_logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" alt="cmake" width="40" height="40" /></a> <a href="https://arduino.cc/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40" /></a> <a href="https://espressif.com/en/products/socs/esp32" target="_blank" rel="noreferrer"><img src="https://cdn-images-1.medium.com/max/278/1*f5X-ZCG4vlJ7V5W7KPBicg@2x.png" alt="esp32" width="40" height="40" /></a> <a href="https://st.com/content/st_com/en.html/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/262cac43-30aa-45c9-99d5-d45c4283ffbc" alt="stm32" width="40" height="40" /></a> <a href="https://mathworks.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40" /></a> <a href="https://mathworks.com/products/simulink.html/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/3/36/Simulink_Logo_%28non-wordmark%29.png" alt="simulink" width="40" height="40" /></a> <a href="https://linux.com/what-is-linux/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/34596973-669c-4cde-8d01-a2c38ff8baee" alt="linux" width="40" height="40" /></a> <a href="https://ros.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/1/15/Robot_Operating_System_logo.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" alt="ros" width="40" height="40" /></a> <a href="https://github.com/Choaib-ELMADI/getting-started-with-vhdl" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/42494379-55c7-485f-8715-37e23526f5c4" alt="vhdl" width="40" height="40" /></a> <a href="https://github.com/Choaib-ELMADI/getting-started-with-verilog" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/c9090408-4c61-4d47-8f4f-6d1ca61e519c" alt="verilog" width="40" height="40" /></a> <a href="https://github.com/Choaib-ELMADI/getting-started-with-systemverilog" target="_blank" rel="noreferrer"><img src="https://cdn.creazilla.com/icons/3256759/file-type-light-systemverilog-icon-size_256.png" alt="systemverilog" width="40" height="40" /></a> <a href="https://qt.io/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt.io" width="40" height="40" /></a>
@@ -82,26 +87,22 @@
 
 <!-- <br /> -->
 
-<!-- ## <div align="center">Statistics and Analytics</div> -->
-
-<!-- <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=choaib-elmadi&locale=en&layout=compact&langs_count=8" alt="choaib-elmadi" />
-</p>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=choaib-elmadi&show_icons=true&locale=en&rank_icon=github" alt="choaib-elmadi" />
-</p> -->
+<!-- NEW BLANK EMPTY LINK -->
+<!-- <a href="" target="_blank" rel="noreferrer"><img src="" alt="" width="40" height="40" /></a> -->
 
 <!-- MY ASSETS -->
-<!-- ![rounded-me]       (https://github.com/user-attachments/assets/b67c5a4f-8585-4b96-ac5b-cd15452f19bf) -->
-<!-- ![tailwindcss-icon] (https://github.com/user-attachments/assets/b409de60-40c9-437b-b978-795d176e463e) -->
-<!-- ![stm32-logo]       (https://github.com/user-attachments/assets/262cac43-30aa-45c9-99d5-d45c4283ffbc) -->
-<!-- ![verilog]          (https://github.com/user-attachments/assets/c9090408-4c61-4d47-8f4f-6d1ca61e519c) -->
-<!-- ![vhdl-icon-lg]     (https://github.com/user-attachments/assets/42494379-55c7-485f-8715-37e23526f5c4) -->
-<!-- ![linux]            (https://github.com/user-attachments/assets/34596973-669c-4cde-8d01-a2c38ff8baee) -->
-<!-- ![express]          (https://github.com/user-attachments/assets/2fe9fcd9-0a8c-473b-8bcc-b944d1592b21) -->
-<!-- ![redux]            (https://github.com/user-attachments/assets/16f33693-49e6-44c3-bf2a-34ff9d7dfaa3) -->
-<!-- ![java]             (https://github.com/user-attachments/assets/7f46a63f-092a-4a4a-bca3-9943bf766218) -->
-<!-- ![scikit]           (https://github.com/user-attachments/assets/1a800992-50fd-47c3-b0d4-700488179ef2) -->
-<!-- ![solidworks]       (https://github.com/user-attachments/assets/84a8f39a-cc98-49a8-9f7e-9652552f4af2) -->
-<!-- ![langchain]        (https://github.com/user-attachments/assets/ca46de03-a443-4bf7-923d-44fc72b1fe76) -->
-<!-- ![langgraph]        (https://github.com/user-attachments/assets/fb535023-5879-4952-aa78-0d0cfffb0742) -->
+<!-- ![rounded-me]        (https://github.com/user-attachments/assets/b67c5a4f-8585-4b96-ac5b-cd15452f19bf) -->
+<!-- ![tailwindcss-icon]  (https://github.com/user-attachments/assets/b409de60-40c9-437b-b978-795d176e463e) -->
+<!-- ![stm32-logo]        (https://github.com/user-attachments/assets/262cac43-30aa-45c9-99d5-d45c4283ffbc) -->
+<!-- ![verilog]           (https://github.com/user-attachments/assets/c9090408-4c61-4d47-8f4f-6d1ca61e519c) -->
+<!-- ![vhdl-icon-lg]      (https://github.com/user-attachments/assets/42494379-55c7-485f-8715-37e23526f5c4) -->
+<!-- ![linux]             (https://github.com/user-attachments/assets/34596973-669c-4cde-8d01-a2c38ff8baee) -->
+<!-- ![express]           (https://github.com/user-attachments/assets/2fe9fcd9-0a8c-473b-8bcc-b944d1592b21) -->
+<!-- ![redux]             (https://github.com/user-attachments/assets/16f33693-49e6-44c3-bf2a-34ff9d7dfaa3) -->
+<!-- ![java]              (https://github.com/user-attachments/assets/7f46a63f-092a-4a4a-bca3-9943bf766218) -->
+<!-- ![scikit]            (https://github.com/user-attachments/assets/1a800992-50fd-47c3-b0d4-700488179ef2) -->
+<!-- ![solidworks]        (https://github.com/user-attachments/assets/84a8f39a-cc98-49a8-9f7e-9652552f4af2) -->
+<!-- ![langchain]         (https://github.com/user-attachments/assets/ca46de03-a443-4bf7-923d-44fc72b1fe76) -->
+<!-- ![langgraph]         (https://github.com/user-attachments/assets/fb535023-5879-4952-aa78-0d0cfffb0742) -->
+<!-- ![applied-intuition] (https://github.com/user-attachments/assets/cc4eb814-fcec-434c-9808-32e838c5be05) -->
+<!-- ![vector]            (https://github.com/user-attachments/assets/3192d21b-7af7-4d5e-aa4b-042f72ec0b41) -->
