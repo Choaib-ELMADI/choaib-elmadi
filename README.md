@@ -52,7 +52,7 @@
 
 <!-- AUTOMOTIVE TECHNOLOGIES -->
 <p align="center">
-<a href="https://www.appliedintuition.com/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/cc4eb814-fcec-434c-9808-32e838c5be05" alt="applied-intuition" width="40" height="40" /></a> <a href="https://www.vector.com/int/en/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/3192d21b-7af7-4d5e-aa4b-042f72ec0b41" alt="vector" width="40" height="40" /></a>
+<a href="https://www.appliedintuition.com/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/cc4eb814-fcec-434c-9808-32e838c5be05" alt="applied-intuition" width="40" height="40" /></a> <a href="https://www.vector.com/int/en/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/3192d21b-7af7-4d5e-aa4b-042f72ec0b41" alt="vector" width="40" height="40" /></a> <a href="https://www.ibm.com/products/requirements-management" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/d60bf378-0a26-4cfe-bdde-6d4edc647c51" alt="ibm-doors" width="40" height="40" /></a>
 </p>
 
 <!-- EMBEDDED SYSTEMS / ELECTRONICS / ROBOTICS -->
@@ -106,3 +106,4 @@
 <!-- ![langgraph]         (https://github.com/user-attachments/assets/fb535023-5879-4952-aa78-0d0cfffb0742) -->
 <!-- ![applied-intuition] (https://github.com/user-attachments/assets/cc4eb814-fcec-434c-9808-32e838c5be05) -->
 <!-- ![vector]            (https://github.com/user-attachments/assets/3192d21b-7af7-4d5e-aa4b-042f72ec0b41) -->
+<!-- ![ibm-doors]         (https://github.com/user-attachments/assets/d60bf378-0a26-4cfe-bdde-6d4edc647c51) -->
